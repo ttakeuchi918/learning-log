@@ -14,5 +14,8 @@ as preparation for advanced graduate-level research.
 - 読み解く「疫学」スタンダード
 - 手を動かしてまなぶ基礎数学
 
+## Recent updates
+- Language maintenance: French
+
 ## Status
 Active (self-directed study)
