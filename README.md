@@ -16,6 +16,10 @@ in epidemiology, mathematics, statistics, and related tools in preparation for a
 
 ## Recent Updates
 - Language maintenance: French
+- 『手を動かしてまなぶ基礎数学』SS1 「集合」を学習
+- 『手を動かしてまなぶ基礎数学』SS2 「論理」を学習
+- 『手を動かしてまなぶ基礎数学』SS3 「数と式」を学習
+- 『手を動かしてまなぶ基礎数学』SS4 「組み合わせ」を学習
 - 『読み解く「疫学」スタンダード』序章「疫学でわかること」を読了
 - 『読み解く「疫学」スタンダード』第１章「疫学の定義」を読了
 - 『読み解く「疫学」スタンダード』第２章「対象集団の設定」を読了
