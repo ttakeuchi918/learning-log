@@ -21,14 +21,18 @@ in epidemiology, mathematics, statistics, and related tools in preparation for a
 - Studied Section 2（Mathematical Logic）in 『手を動かしてまなぶ基礎数学』
 - Studied Section 3（Numbers and Expressions）in 『手を動かしてまなぶ基礎数学』
 - Studied Section 4（Combination）in 『手を動かしてまなぶ基礎数学』
+- Studied Section 5 (Sequence) in 『手を動かしてまなぶ基礎数学』
+- Studied Section 6 (Functions and Equations) in 『手を動かしてまなぶ基礎数学』
 
 - 『読み解く「疫学」スタンダード』序章「疫学でわかること」を読了
 - 『読み解く「疫学」スタンダード』第１章「疫学の定義」を読了
 - 『読み解く「疫学」スタンダード』第２章「対象集団の設定」を読了
+- 『読み解く「疫学」スタンダード』第３章「イベント（事象）の把握』を読了
+- 『読み解く「疫学」スタンダード』第４章「質問紙（アンケート）調査」を読了
 
 ## Next Steps
--『読み解く「疫学」スタンダード』第３章を読む
--Review basisc calculus concepts (functions and limits)
+-『読み解く「疫学」スタンダード』第5章を読む
+-Review basic calculus concepts (functions and limits)
 -Short daily English writing practice
 
 ## Notes
